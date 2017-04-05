@@ -1,0 +1,874 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sub",
+				"submissions"
+			],
+			[
+				"subm",
+				"submission"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"activi",
+				"activities"
+			],
+			[
+				"Acti",
+				"Activity"
+			],
+			[
+				"latest",
+				"latest_subs"
+			],
+			[
+				"Sub",
+				"SubmissionQuerySet"
+			],
+			[
+				"comp",
+				"completed_dict"
+			],
+			[
+				"is",
+				"is_complete"
+			],
+			[
+				"teams",
+				"teams_completed"
+			],
+			[
+				"acti",
+				"activity"
+			],
+			[
+				"auth",
+				"auth_required"
+			],
+			[
+				"actii",
+				"activity"
+			],
+			[
+				"act",
+				"activity"
+			],
+			[
+				"activ",
+				"activity_tile_color"
+			],
+			[
+				"ac",
+				"activity"
+			],
+			[
+				"pre",
+				"prerequisites"
+			],
+			[
+				"click",
+				"clickable-row"
+			],
+			[
+				"for_",
+				"for_signoff"
+			],
+			[
+				"for",
+				"for_signoff"
+			],
+			[
+				"team",
+				"team_id"
+			],
+			[
+				"activit",
+				"activities"
+			],
+			[
+				"tot",
+				"total_remaining_prerequisites"
+			],
+			[
+				"Task",
+				"TaskSubmissionView"
+			],
+			[
+				"sign",
+				"signoffs"
+			],
+			[
+				"are",
+				"are_attempts_remaining"
+			],
+			[
+				"sta",
+				"staff_pin_code"
+			],
+			[
+				"check",
+				"check_pin_code"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"is_",
+				"is_challenge"
+			],
+			[
+				"ver",
+				"verify_pin_code"
+			],
+			[
+				"all",
+				"all_submissions"
+			],
+			[
+				"pr",
+				"property"
+			],
+			[
+				"TeamT",
+				"TeamTaskQuerySet"
+			],
+			[
+				"al",
+				"all_submissions"
+			],
+			[
+				"max",
+				"max_attempts"
+			],
+			[
+				"signoff",
+				"signoff_requests"
+			],
+			[
+				"activity",
+				"activity_id"
+			],
+			[
+				"su",
+				"submissions"
+			],
+			[
+				"ti",
+				"tile_color"
+			],
+			[
+				"requ",
+				"requests"
+			],
+			[
+				"reqs",
+				"requests"
+			],
+			[
+				"Team",
+				"TeamTask"
+			],
+			[
+				"challe",
+				"challenges"
+			],
+			[
+				"Ac",
+				"Activity"
+			],
+			[
+				"Act",
+				"Activity"
+			],
+			[
+				"s",
+				"signoff_requests"
+			],
+			[
+				"task",
+				"takes_context"
+			],
+			[
+				"Si",
+				"SignoffRequestQuerySet"
+			],
+			[
+				"req",
+				"req_team"
+			],
+			[
+				"tea",
+				"team_id"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"ava",
+				"available"
+			],
+			[
+				"user",
+				"user_team"
+			],
+			[
+				"taks",
+				"takes_context"
+			],
+			[
+				"pin",
+				"pin_code"
+			],
+			[
+				"nav",
+				"nav_link"
+			],
+			[
+				"com",
+				"complete_tasks"
+			],
+			[
+				"ta",
+				"task"
+			],
+			[
+				"USE",
+				"USE_L10N"
+			],
+			[
+				"USE_",
+				"USE_I18N"
+			],
+			[
+				"new",
+				"new_password2"
+			],
+			[
+				"aler",
+				"alert"
+			],
+			[
+				"host",
+				"hostname"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"pagi",
+				"Pagination"
+			],
+			[
+				"pa",
+				"page"
+			],
+			[
+				"pag",
+				"paginator"
+			],
+			[
+				"Ht",
+				"HttpResponseForbidden"
+			],
+			[
+				"cs",
+				"csrf_exempt"
+			],
+			[
+				"Stat",
+				"STATIC_DIR"
+			],
+			[
+				"last_",
+				"last_checkin"
+			],
+			[
+				"US",
+				"USE_L10N"
+			],
+			[
+				"D",
+				"DATABASES"
+			],
+			[
+				"CONF",
+				"CONFIG_DIR"
+			],
+			[
+				"PRO",
+				"PROJECT_DIR"
+			],
+			[
+				"Devic",
+				"DeviceAction"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"device",
+				"devices"
+			],
+			[
+				"dev",
+				"device_id"
+			],
+			[
+				"name",
+				"namespace"
+			],
+			[
+				"invent",
+				"inventory_patterns"
+			],
+			[
+				"inven",
+				"inventory_patterns"
+			],
+			[
+				"tem",
+				"team_id"
+			],
+			[
+				"tim",
+				"timezone"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "users.html",
+			"settings":
+			{
+				"buffer_size": 2660,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "components/navbar.html",
+			"settings":
+			{
+				"buffer_size": 1191,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 176.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/nickm/Desktop/Skitter/html",
+		"/C/Users/nickm/Desktop/Skitter/html/components"
+	],
+	"file_history":
+	[
+		"/C/Users/nickm/Desktop/NSIC/nsic/activities/models.py",
+		"/C/Users/nickm/Downloads/Skitter.pem",
+		"/C/Users/nickm/Desktop/NSIC/nsic/views.py",
+		"/C/Users/nickm/Desktop/NSIC/nsic/decorators.py",
+		"/C/Users/nickm/Desktop/NSIC/nsic/urls.py",
+		"/C/Users/nickm/Desktop/NSIC/nsic/admin.py",
+		"/C/Users/nickm/Desktop/NSIC/core/models.py",
+		"/C/Users/nickm/Desktop/nsic.sublime-project",
+		"/C/Users/nickm/Desktop/NSIC/core/urls.py",
+		"/C/Users/nickm/Desktop/NSIC/core/decorators.py",
+		"/C/Users/nickm/Desktop/NSIC/core/admin.py",
+		"/C/Users/nickm/Desktop/NSIC/core/templates/form_login.html",
+		"/C/Users/nickm/Desktop/NSIC/static/css/custom.css",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/scoreboard.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/tile_teamtask.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/teams/models.py",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/closingtime.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/activities/views.py",
+		"/C/Users/nickm/Desktop/NSIC/nsic/activities/urls.py",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/table_teamscores.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/table_scoreboard.html",
+		"/C/Users/nickm/Desktop/NSIC/static/js/refresh.js",
+		"/C/Users/nickm/Desktop/NSIC/nsic/activities/scoring.py",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/nav_left.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/table_devices.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templatetags/nsic_tags.py",
+		"/C/Users/nickm/Downloads/activities.json",
+		"/C/Users/nickm/Downloads/tasks.json",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/teams.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/tile_activity.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/tile_team.html",
+		"/E/NSIC2017 Scoring Data/json_Tasks.json",
+		"/E/NSIC2017 Scoring Data/json_Teams.json",
+		"/E/NSIC2017 Scoring Data/NSIC2017_teams.csv",
+		"/C/Users/nickm/Desktop/NSIC/nsic/settings.py",
+		"/E/NSIC2017 Scoring Data/json_Activities.json",
+		"/C/Users/nickm/Desktop/NSIC/core/authentication/templates/form_login.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/nav_right.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/configurations/prod.cfg",
+		"/E/NSIC2017 Scoring Data/NSIC2017_activities.json",
+		"/E/NSIC2017 Scoring Data/NSIC2017_Teams.json",
+		"/C/Users/nickm/Downloads/tasks_json2.json",
+		"/C/Users/nickm/Downloads/devices_test.json",
+		"/C/Users/nickm/Downloads/devices.json",
+		"/C/Users/nickm/Desktop/NSIC/nsic/devices/models.py",
+		"/C/Users/nickm/Desktop/NSIC/nsic/devices/views.py",
+		"/E/nsic_stuff/converter_template_device.txt",
+		"/E/NSIC2017 Scoring Data/NSIC2017_Inventory.json",
+		"/C/Users/nickm/Downloads/tasks_p1.json",
+		"/E/nsic_stuff/converter_template_task.txt",
+		"/C/Users/nickm/Downloads/tasks_json.json",
+		"/E/NSIC2017 Scoring Data/NSIC2017_Tasks.json",
+		"/C/Users/nickm/Desktop/nsic_stuff/BRANDT_NOTES.txt",
+		"/C/Users/nickm/Desktop/nsic_stuff/fixer.py",
+		"/C/Users/nickm/Desktop/nsic_stuff/converter_template_team.txt",
+		"/C/Users/nickm/Desktop/nsic_stuff/example_teams.csv",
+		"/C/Users/nickm/Desktop/nsic_stuff/converter_template_task.txt",
+		"/C/Users/nickm/Desktop/nsic_stuff/converter_template_device.txt",
+		"/C/Users/nickm/Desktop/nsic_stuff/example_devices.csv",
+		"/C/Users/nickm/Desktop/NSIC/docs/fixtures/test_user.json",
+		"/C/Users/nickm/Downloads/csv2json.json",
+		"/C/Users/nickm/Desktop/NSIC/csv_notes.txt",
+		"/C/Users/nickm/Downloads/sample_activities.csv",
+		"/C/Users/nickm/Downloads/sample_tasks.csv",
+		"/C/Users/nickm/Downloads/task_format.txt",
+		"/C/Users/nickm/Downloads/test_activities.json",
+		"/C/Users/nickm/Downloads/test_activities3.json",
+		"/C/Users/nickm/Downloads/task_format.tt.txt",
+		"/C/Users/nickm/Downloads/test.csv",
+		"/C/Users/nickm/Desktop/NSIC/importer.py",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/tile_task.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/activity.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/activities.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/devices.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/form_device.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/teams/views.py",
+		"/C/Users/nickm/Desktop/NSIC/core/templates/elements/table.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/table_signoffrequests.html",
+		"/C/Users/nickm/Desktop/NSIC/static/js/custom_jquery.js",
+		"/C/Users/nickm/Desktop/NSIC/core/templates/base.html",
+		"/C/Users/nickm/Documents/nickmartin_rsa2048.pub",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/team.html",
+		"/C/Users/nickm/Desktop/NSIC/requirements.txt",
+		"/C/Users/nickm/Desktop/rwDetector.sublime-project",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/activity.html.bak.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/tile_task.html.bak.html",
+		"/C/Users/nickm/Desktop/NSIC/docs/fixtures/testing.json",
+		"/C/Users/nickm/Desktop/NSIC/core/authentication/templates/form_passwd.html",
+		"/C/Users/nickm/Desktop/NSIC/core/authentication/templates/passwd.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/table_devices_team.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/tiles/task.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/tiles/form_question.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/tiles/form_signoff.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/tiles/activity.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic_proj.sublime-project",
+		"/C/Users/nickm/Desktop/NSIC/core/authentication/urls.py",
+		"/C/Users/nickm/Desktop/NSIC/nsic/activities/admin.py",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/forms/device.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/tiles/task_signoff.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/tiles/task_question.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/forms/signoff.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/forms/question.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/tiles/task.html.bak.html",
+		"/C/Users/nickm/Desktop/NSIC/core/templates/elements/tile.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/nav/header.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/nav/left_links.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/nav/right_links.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/navbar.html",
+		"/C/Users/nickm/Desktop/NSIC/core/templates/navbar.html",
+		"/C/Users/nickm/Desktop/NSIC/core/templatetags/core_tags.py",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/tables/devices_team.html",
+		"/C/Users/nickm/Desktop/NSIC/nsic/templates/tables/devices.html",
+		"/C/Users/nickm/Desktop/NSIC/core/templates/elements/heading.html",
+		"/C/Users/nickm/Desktop/NSIC/static/admin/css/base.css",
+		"/C/Users/nickm/Desktop/NSIC/static/admin/css/dashboard.css",
+		"/C/Users/nickm/Desktop/NSIC/nsic/wsgi.py",
+		"/C/Users/nickm/Desktop/NSIC/nsic/teams/urls.py",
+		"/C/Users/nickm/Desktop/NSIC/nsic/teams/admin.py",
+		"/C/Users/nickm/Desktop/NSIC/nsic/devices/urls.py",
+		"/C/Users/nickm/Desktop/NSIC/nsic/devices/admin.py",
+		"/C/Users/nickm/Desktop/NSIC/docs/models.txt",
+		"/C/Users/nickm/Desktop/NSIC/core/auth/decorators.py",
+		"/C/Users/nickm/Desktop/NSIC/core/templates/forms/passwd.html",
+		"/C/Users/nickm/Desktop/NSIC/core/auth/urls.py",
+		"/C/Users/nickm/Desktop/NSIC/core/templates/passwd.html",
+		"/C/Users/nickm/Desktop/NSIC/core/templates/forms/login.html",
+		"/C/Users/nickm/Desktop/NSIC/core/auth/views.py",
+		"/C/Users/nickm/Desktop/NSIC/core/templates/login.html"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"null\"",
+			"field1",
+			"field2",
+			"]\"",
+			"\"[",
+			"prerequisites\":null,",
+			"\"null\"",
+			"prerequisites\":,",
+			"\"null\"",
+			"\"true\"",
+			"\"false\"",
+			"answer\":\"",
+			"]\"",
+			"\"[",
+			"\"true\"",
+			"\"false\"",
+			"\"null\"",
+			"pk1",
+			"pk0",
+			"field9",
+			"field8",
+			"field7",
+			"field6",
+			"field5",
+			"field4",
+			"field3",
+			"FIELD2",
+			"FIELD1",
+			"\"\":\"\"",
+			"\"true\"",
+			"\"false\"",
+			"\"null\"",
+			"field8",
+			"field7",
+			"field6",
+			"field5",
+			"FIELD4",
+			"FIELD3",
+			"FIELD2",
+			"FIELD1",
+			"ts",
+			"for_",
+			"for",
+			"for_",
+			"ts",
+			"()",
+			"all_",
+			"all_pre",
+			"teamtask",
+			"signoff_re",
+			"include",
+			"root",
+			"avail",
+			"is_available",
+			"cost",
+			"{%",
+			"as",
+			"{% extends ",
+			"{% include 'elements/heading",
+			"symbol",
+			"check_pin",
+			"account.team",
+			"rever",
+			"users",
+			"header",
+			"margin-top",
+			"static",
+			"timez",
+			"redire",
+			"render",
+			"User",
+			"rever",
+			"navbar-bran",
+			"navbar-brand",
+			"991",
+			"950",
+			"-15",
+			"navbar-header",
+			"900",
+			"1020",
+			"970",
+			"940",
+			"970",
+			"940",
+			"99",
+			"900",
+			"767",
+			"768",
+			"767",
+			"_sign",
+			"_ques",
+			"_que",
+			"_chall",
+			"_scenar",
+			"device"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"null",
+			"pk",
+			"name",
+			"\"",
+			"prerequisites\":[],",
+			"null",
+			"prerequisites\":null,",
+			"null",
+			"true",
+			"false",
+			"answer\":",
+			"]",
+			"[",
+			"true",
+			"false",
+			"null",
+			"is_signoff",
+			"is_question",
+			"prerequisites",
+			"activity",
+			"value",
+			"notes",
+			"answer",
+			"bonus",
+			"description",
+			"title",
+			"pk",
+			"\"Barcode",
+			"true",
+			"false",
+			"null",
+			"closes",
+			"opens",
+			"is_challenge",
+			"is_scenario",
+			"duration",
+			"description",
+			"title",
+			"pk"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "users.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2206,
+								2206
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "components/navbar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1191,
+								1191
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "skitter_project.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 490.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
