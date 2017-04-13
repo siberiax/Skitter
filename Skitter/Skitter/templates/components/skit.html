@@ -1,0 +1,41 @@
+{% load staticfiles %}
+
+<div class="panel skit">
+    <div class="panel-heading">
+        <div class="row">
+            <div class="col-md-10">
+                <img class="skit-user-img" src="{% static 'images/grinning.svg' %}"/>
+                <p class="skit-user"><a href="{% url 'profile' uid=1 %}">Alex M.</a></p>
+            </div>
+            <div class="col-md-2 text-right">
+                <button type="button" class="btn btn-sm btn-default" href="#">
+                    <span class="glyphicon glyphicon-trash" aria-hidden="true"></span>
+                </button>
+            </div>
+        </div>
+    </div>
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-12">
+                <strong>Hey Brian, look how awesome our Skitter is!</strong>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-7">
+                <h6>Feb 29, 2017 @ 11:11am</h6>
+            </div>
+            <div class="col-md-5 text-right">
+                <h6><a data-toggle="collapse" data-target="#collapse-skit-{{ id }}">3 Replies</a></h6>
+            </div>
+        </div>
+    </div>
+    <div id="collapse-skit-{{ id }}" class="panel-footer collapse out">
+        <div class="row">
+            {% for sr in "123" %}
+                <div class="col-sm-12">
+                    {% include 'components/skit_reply.html' %}
+                </div>
+            {% endfor %}
+        </div>
+    </div> <!-- /div-collapse -->
+</div>

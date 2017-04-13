@@ -1,0 +1,14 @@
+body { padding-top: 50px; padding-bottom: 20px; }
+
+.jumbotron { text-align: center; padding-top: 20px; padding-bottom: 20px; border-bottom: 1px solid #e5e5e5; vertical-align: middle; }
+.jumbotron .heading { font-size: 64px; text-align: left; margin-bottom: 0px; }
+.jumbotron .user-img { width: 100px; margin-right: 20px; float: right; }
+.jumbotron .btn { font-size: 16px; padding: 5px; width: 150px; }
+
+.skits h6 { margin-top; 0px; margin-bottom: 0px; }
+.skit { border: 1px solid #e5e5e5; background-color: #f9f9f9}    /*margin-bottom: 30px; padding: 15px;*/
+.skit-user { font-size: 34px; text-align: left; margin-bottom: 0px; }
+.skit-user-img { width: 40px; margin-right: 20px; float: left; }
+
+.new-skit { font-size: 24px; }
+textarea { width:100%; }
