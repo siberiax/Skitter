@@ -1,0 +1,11 @@
+In these testdb is essentially the Database and names is the table.
+
+
+make query. Returns all entries where the user is 1.
+curl -XGET search-skitter-es-vylzjmu2cn4nsl2ncugfhfskku.us-west-2.es.amazonaws.com/testdb/names/_search -d '{ "query" : { "match" : { "user" : "1" } } }'
+
+GET request that returns entire ‘database’
+curl -XGET 'search-skitter-es-vylzjmu2cn4nsl2ncugfhfskku.us-west-2.es.amazonaws.com/testdb/_search?pretty=true'
+
+POST request adding entry to db. message, user, and timestamp are the columns with the values to add.
+curl -XPOST 'search-skitter-es-vylzjmu2cn4nsl2ncugfhfskku.us-west-2.es.amazonaws.com/testdb/names' -d '{ "message": "hello", "user": "1", "timestamp": "01-01-1000" }'
