@@ -24,10 +24,10 @@ if($has_session){
 	$_SESSION['login']['born'] = time();
 	$id_to_get = $_SESSION['user_id'];
 	print_r($_POST);
-	if(isset($_POST['display_name'])){
-		$prep = "UPDATE accounts SET display_name=? WHERE account_id=?";
+	if(isset($_POST['displayName'])){
+		$prep = "UPDATE user SET displayName=? WHERE id=?";
 		if($stmt = $mysqli->prepare($prep)){
-			if($stmt->bind_param("si",$_POST['display_name'], $_SESSION['user_id'])){
+			if($stmt->bind_param("si",$_POST['displayName'], $_SESSION['user_id'])){
 				if(!$stmt->execute()){
 					die("Error - Issue executing prepared statement: " . mysqli_error($mysqli));
 				}

@@ -1,0 +1,13 @@
+/Users/alexmchugh/Desktop/Skitter/Auth/src/main/java/com/skitter/account/model/User.java
+/Users/alexmchugh/Desktop/Skitter/Auth/src/main/java/com/skitter/account/service/UserServiceImpl.java
+/Users/alexmchugh/Desktop/Skitter/Auth/src/main/java/com/skitter/account/web/UserController.java
+/Users/alexmchugh/Desktop/Skitter/Auth/src/main/java/com/skitter/account/service/SecurityServiceImpl.java
+/Users/alexmchugh/Desktop/Skitter/Auth/src/main/java/com/skitter/account/web/AuthenticatedController.java
+/Users/alexmchugh/Desktop/Skitter/Auth/src/main/java/com/skitter/account/service/UserService.java
+/Users/alexmchugh/Desktop/Skitter/Auth/src/main/java/com/skitter/account/service/SecurityService.java
+/Users/alexmchugh/Desktop/Skitter/Auth/src/main/java/com/skitter/account/service/UserDetailsServiceImpl.java
+/Users/alexmchugh/Desktop/Skitter/Auth/src/main/java/com/skitter/account/repository/UserRepository.java
+/Users/alexmchugh/Desktop/Skitter/Auth/src/main/java/com/skitter/account/model/Role.java
+/Users/alexmchugh/Desktop/Skitter/Auth/src/main/java/com/skitter/account/model/Authenticated.java
+/Users/alexmchugh/Desktop/Skitter/Auth/src/main/java/com/skitter/account/repository/RoleRepository.java
+/Users/alexmchugh/Desktop/Skitter/Auth/src/main/java/com/skitter/account/validator/UserValidator.java

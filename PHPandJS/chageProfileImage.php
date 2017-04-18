@@ -25,7 +25,7 @@ if($has_session){
 	$id_to_get = $_SESSION['user_id'];
 	print_r($_POST);
 	if(isset($_POST['profile_image'])){
-		$prep = "UPDATE accounts SET profile_image=? WHERE account_id=?";
+		$prep = "UPDATE id SET profile_image=? WHERE id=?";
 		if($stmt = $mysqli->prepare($prep)){
 			if($stmt->bind_param("si",$_POST['profile_image'], $_SESSION['user_id'])){
 				if(!$stmt->execute()){
