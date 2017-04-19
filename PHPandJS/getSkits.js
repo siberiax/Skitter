@@ -4,7 +4,7 @@ var connection = mysql.createConnection({
   host : 'skitterdb.cw8xyevide6f.us-west-2.rds.amazonaws.com',
   user : 'Skitter',
   password : 'CSEC380_project',
-  database: 'Skitter'
+  database: 'accounts'
 });
 
 connection.connect(function(err){
