@@ -6,7 +6,6 @@ session = requests.Session()
 def cred():
     f = open(".cred.txt")
     p = f.readline().strip()
-    print p
     return p
 
 def login():
